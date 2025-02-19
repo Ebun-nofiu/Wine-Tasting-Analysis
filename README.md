@@ -21,6 +21,6 @@ This project analyzes wine tasting data to gain valuable insights regarding wine
 - Expand distribution to the **United States, France, and Italy** for higher sales.  
 
 ### Files in this Repository
-- Wine Tasting Analysis.pbix → Power BI file contaning the full analysis
+- Wine Trends and Tasting Insights.pbix → Power BI file contaning the full analysis
 - wine tasting.xlsx → Cleaned dataset used for analysis  
 
